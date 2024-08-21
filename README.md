@@ -21,8 +21,9 @@ This project is divided into several lessons, each focusing on building a specif
 2. **Lesson 02**: Create our first HTTP Route
 3. **Lesson 03**: Add MongoDB and Mongoose to Node.js
 4. **Lesson 04**: Create Book model with Mongoose
-   <iframe src="https://giphy.com/embed/aCWGPsYb9tSta3ZsOx" width="480" height="312" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/aCWGPsYb9tSta3ZsOx">via GIPHY</a></p>
-6. **Lesson 05**: Save a new Book with Mongoose
+5. **Lesson 05**: Save a new Book with Mongoose
+![giphy](https://github.com/user-attachments/assets/c4b31851-d1fe-4413-a286-182ad05e014c)
+
 7. **Lesson 06**: Get All Books with Mongoose
 8. **Lesson 07**: Get One Book by ID with Mongoose
 9. **Lesson 08**: Update a Book with Mongoose
