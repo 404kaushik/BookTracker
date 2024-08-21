@@ -23,7 +23,6 @@ This project is divided into several lessons, each focusing on building a specif
 4. **Lesson 04**: Create Book model with Mongoose
 5. **Lesson 05**: Save a new Book with Mongoose
 ![giphy](https://github.com/user-attachments/assets/c4b31851-d1fe-4413-a286-182ad05e014c)
-
 7. **Lesson 06**: Get All Books with Mongoose
 8. **Lesson 07**: Get One Book by ID with Mongoose
 9. **Lesson 08**: Update a Book with Mongoose
