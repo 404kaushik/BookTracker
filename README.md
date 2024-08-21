@@ -21,20 +21,21 @@ This project is divided into several lessons, each focusing on building a specif
 2. **Lesson 02**: Create our first HTTP Route
 3. **Lesson 03**: Add MongoDB and Mongoose to Node.js
 4. **Lesson 04**: Create Book model with Mongoose
-5. **Lesson 05**: Save a new Book with Mongoose
-6. **Lesson 06**: Get All Books with Mongoose
-7. **Lesson 07**: Get One Book by ID with Mongoose
-8. **Lesson 08**: Update a Book with Mongoose
-9. **Lesson 09**: Delete a Book with Mongoose
-10. **Lesson 10**: Refactor Node.js with Express Router
-11. **Lesson 11**: Handle CORS policy in Node.js and Express.js
-12. **Lesson 12**: Create React project with Vite and Tailwind CSS
-13. **Lesson 13**: Build a Single Page Application (SPA) and Add React Router DOM
-14. **Lesson 14**: Display Books List in React
-15. **Lesson 15**: Show Book Details in React
-16. **Lesson 16**: Create a Book in React
-17. **Lesson 17**: Edit a Book in React
-18. **Lesson 18**: Delete a Book in React
+   <iframe src="https://giphy.com/embed/aCWGPsYb9tSta3ZsOx" width="480" height="312" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/aCWGPsYb9tSta3ZsOx">via GIPHY</a></p>
+6. **Lesson 05**: Save a new Book with Mongoose
+7. **Lesson 06**: Get All Books with Mongoose
+8. **Lesson 07**: Get One Book by ID with Mongoose
+9. **Lesson 08**: Update a Book with Mongoose
+10. **Lesson 09**: Delete a Book with Mongoose
+11. **Lesson 10**: Refactor Node.js with Express Router
+12. **Lesson 11**: Handle CORS policy in Node.js and Express.js
+13. **Lesson 12**: Create React project with Vite and Tailwind CSS
+14. **Lesson 13**: Build a Single Page Application (SPA) and Add React Router DOM
+15. **Lesson 14**: Display Books List in React
+16. **Lesson 15**: Show Book Details in React
+17. **Lesson 16**: Create a Book in React
+18. **Lesson 17**: Edit a Book in React
+19. **Lesson 18**: Delete a Book in React
 
 ## 🧰 Technologies Used
 
