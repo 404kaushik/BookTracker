@@ -22,20 +22,26 @@ This project is divided into several lessons, each focusing on building a specif
 3. **Lesson 03**: Add MongoDB and Mongoose to Node.js
 4. **Lesson 04**: Create Book model with Mongoose
 5. **Lesson 05**: Save a new Book with Mongoose
-![giphy](https://github.com/user-attachments/assets/c4b31851-d1fe-4413-a286-182ad05e014c)
-7. **Lesson 06**: Get All Books with Mongoose
-8. **Lesson 07**: Get One Book by ID with Mongoose
-9. **Lesson 08**: Update a Book with Mongoose
-10. **Lesson 09**: Delete a Book with Mongoose
-11. **Lesson 10**: Refactor Node.js with Express Router
-12. **Lesson 11**: Handle CORS policy in Node.js and Express.js
-13. **Lesson 12**: Create React project with Vite and Tailwind CSS
-14. **Lesson 13**: Build a Single Page Application (SPA) and Add React Router DOM
-15. **Lesson 14**: Display Books List in React
-16. **Lesson 15**: Show Book Details in React
-17. **Lesson 16**: Create a Book in React
-18. **Lesson 17**: Edit a Book in React
-19. **Lesson 18**: Delete a Book in React
+6. **Lesson 06**: Get All Books with Mongoose
+7. **Lesson 07**: Get One Book by ID with Mongoose
+8. **Lesson 08**: Update a Book with Mongoose
+9. **Lesson 09**: Delete a Book with Mongoose
+10. **Lesson 10**: Refactor Node.js with Express Router
+11. **Lesson 11**: Handle CORS policy in Node.js and Express.js
+12. **Lesson 12**: Create React project with Vite and Tailwind CSS
+13. **Lesson 13**: Build a Single Page Application (SPA) and Add React Router DOM
+14. **Lesson 14**: Display Books List in React
+15. **Lesson 15**: Show Book Details in React
+16. **Lesson 16**: Create a Book in React
+17. **Lesson 17**: Edit a Book in React
+18. **Lesson 18**: Delete a Book in React
+
+## ✅ Testing
+- **Create Books**:
+![giphy](https://github.com/user-attachments/assets/0e51000a-5c75-4158-8a2e-639df2899c26)
+
+
+
 
 ## 🧰 Technologies Used
 
